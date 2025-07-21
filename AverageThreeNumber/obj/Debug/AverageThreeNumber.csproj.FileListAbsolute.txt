@@ -1,0 +1,8 @@
+C:\Users\ASUS ZenBook\Downloads\proffetional Asp.net course\C# practice\AverageThreeNumber\AverageThreeNumber\bin\Debug\AverageThreeNumber.exe.config
+C:\Users\ASUS ZenBook\Downloads\proffetional Asp.net course\C# practice\AverageThreeNumber\AverageThreeNumber\bin\Debug\AverageThreeNumber.exe
+C:\Users\ASUS ZenBook\Downloads\proffetional Asp.net course\C# practice\AverageThreeNumber\AverageThreeNumber\bin\Debug\AverageThreeNumber.pdb
+C:\Users\ASUS ZenBook\Downloads\proffetional Asp.net course\C# practice\AverageThreeNumber\AverageThreeNumber\obj\Debug\AverageThreeNumber.csproj.AssemblyReference.cache
+C:\Users\ASUS ZenBook\Downloads\proffetional Asp.net course\C# practice\AverageThreeNumber\AverageThreeNumber\obj\Debug\AverageThreeNumber.csproj.CoreCompileInputs.cache
+C:\Users\ASUS ZenBook\Downloads\proffetional Asp.net course\C# practice\AverageThreeNumber\AverageThreeNumber\obj\Debug\AverageThreeNumber.exe
+C:\Users\ASUS ZenBook\Downloads\proffetional Asp.net course\C# practice\AverageThreeNumber\AverageThreeNumber\obj\Debug\AverageThreeNumber.pdb
+C:\Users\ASUS ZenBook\Downloads\proffetional Asp.net course\C# practice\AverageThreeNumber\AverageThreeNumber\obj\Debug\AverageThreeNumber.exe.config
